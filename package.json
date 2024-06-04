@@ -1,0 +1,39 @@
+{
+  "name": "crypto-skywalker",
+  "version": "1.0.0",
+  "description": "crypto-skywalker is an npm package that provides a suite of cryptographic utilities",
+  "main": "start.js",
+  "scripts": {
+    "test": "npm start.js -test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gennadijsuvalov/crypto-skywalker.git"
+  },
+  "keywords": [
+    "crypto",
+    "web3",
+    "utility",
+    "blokchain"
+  ],
+  "author": "gennadijsuvalov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gennadijsuvalov/crypto-skywalker/issues"
+  },
+  "homepage": "https://github.com/gennadijsuvalov/crypto-skywalker#readme",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "blockchain-essentials": "^1.0.0",
+    "blockchain-hub": "^1.0.0",
+    "dotenv": "^16.4.5",
+    "inquirer": "^9.2.23",
+    "node_guru_spin": "^1.0.6",
+    "shardeum_monitor": "^1.0.9",
+    "taiko_cleaner": "^1.0.3",
+    "tea-fresh-pack": "^1.0.2",
+    "trayston-bomb": "^1.0.2",
+    "web3_parser_gen2": "^1.0.1",
+    "zandoriya_gang": "^1.0.2"
+  }
+}
